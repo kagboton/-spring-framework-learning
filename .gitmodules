@@ -4,3 +4,6 @@
 [submodule "spring-demo-annotations"]
 	path = spring-demo-annotations
 	url = ./spring-demo-annotations/
+[submodule "spring-demo-one"]
+	path = spring-demo-one
+	url = ./spring-demo-one/
