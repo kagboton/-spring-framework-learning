@@ -1,9 +1,9 @@
 [submodule "spring-mvc-demo"]
 	path = spring-mvc-demo
-	url = ./spring-mvc-demo/
+	url = https://github.com/kagboton/spring-demo-one.git
 [submodule "spring-demo-annotations"]
 	path = spring-demo-annotations
-	url = ./spring-demo-annotations/
+	url = https://github.com/kagboton/spring-demo-annotations.git
 [submodule "spring-demo-one"]
 	path = spring-demo-one
-	url = ./spring-demo-one/
+	url = https://github.com/kagboton/spring-demo-one.git
