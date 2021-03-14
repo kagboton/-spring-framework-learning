@@ -7,3 +7,6 @@
 [submodule "spring-demo-one"]
 	path = spring-demo-one
 	url = https://github.com/kagboton/spring-demo-one.git
+[submodule "spring-hibernate-tutorial"]
+	path = spring-hibernate-tutorial
+	url = https://github.com/kagboton/spring-hibernate-tutorial.git
