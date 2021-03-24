@@ -10,3 +10,6 @@
 [submodule "spring-hibernate-tutorial"]
 	path = spring-hibernate-tutorial
 	url = https://github.com/kagboton/spring-hibernate-tutorial.git
+[submodule "web-customer-tracker"]
+	path = web-customer-tracker
+	url = https://github.com/kagboton/web-customer-tracker.git
